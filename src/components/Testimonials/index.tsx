@@ -5,28 +5,28 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Musharof Chy",
-    designation: "Founder @TailGrids",
+    name: "nom",
+    designation: "adresse",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-01.png",
+      "Depuis que je suis dans l'orphelinat soutenu par votre organisation, j’ai reçu des livres et des jouets, et on m'a même inscrite à des cours de danse. Je me sens moins seule et j'ai plein d'amis maintenant. Chaque jour semble un peu plus joyeux et je sais que même si mes parents me manquent, il y a des gens qui se soucient de moi ici..",
+    image: "/images/testimonials/image2.png",
     star: 5,
   },
   {
     id: 2,
-    name: "Devid Weilium",
-    designation: "Founder @UIdeck",
+    name: "nom",
+    designation: "adresse",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
-    image: "/images/testimonials/auth-02.png",
+      "Je suis trop contente avec notre nouvelle école ici près de la maison. Avant, c'était loin et je me fatiguais beaucoup sur le chemin. Maintenant, je peux même rentrer à la maison pour le déjeuner et revenir jouer avec mes amis à l'école. Tout est si beau et propre, je veux rester à l'école tout le temps pour jouer a mes camarades !.",
+    image: "/images/testimonials/image1.png",
     star: 5,
   },
   {
     id: 3,
-    name: "Lethium Frenci",
-    designation: "Founder @Lineicons",
+    name: "nom",
+    designation: "adresse",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Touché par une maladie qui m'a laissé incapable de travailler, j'étais confronté à des dettes croissantes et à la peur de perdre ma maison. Grâce à votre aide financière et à votre soutien médical, j'ai pu suivre un traitement adéquat et me concentrer sur ma guérison sans le fardeau financier qui pesait sur ma famille.",
     image: "/images/testimonials/auth-03.png",
     star: 5,
   },
@@ -37,8 +37,8 @@ const Testimonials = () => {
     <section className="dark:bg-bg-color-dark bg-gray-light relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Témoignages de nos utilisateurs"
+          paragraph="Découvrez les expériences et les avis de ceux qui nous ont fait confiance.."
           center
         />
 

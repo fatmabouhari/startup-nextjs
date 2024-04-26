@@ -24,8 +24,9 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="La confiance est le socle de la générosité  
+                la sécurité, son bouclier..."
+                paragraph="Nous avons établi un partenariat solide avec la Banque X, Cette collaboration garantit que chaque donation est traitée avec le plus haut niveau de protection, utilisant les protocoles de sécurité rigoureux. Avec Banque X, vos gestes de générosité sont entre des mains sûres, vous permettant de donner en toute confiance.."
                 mb="44px"
               />
 
@@ -35,15 +36,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Renforcement de la réputation" />
+                    <List text="Attraction d'une nouvelle clientèle" />
+                    <List text="Témoignage de son rôle actif" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Soutien aux initiatives philanthropiques" />
+                    <List text="Renforcement de sa position" />
+                    <List text="Acteur clé du changement sociétal" />
                   </div>
                 </div>
               </div>
@@ -52,13 +53,13 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0">
                 <Image
-                  src="/images/about/about-image.svg"
+                  src="/images/about/image.png"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full drop-shadow-three dark:hidden dark:drop-shadow-none lg:mr-0"
                 />
                 <Image
-                  src="/images/about/about-image-dark.svg"
+                  src="/images/about/image.png"
                   alt="about-image"
                   fill
                   className="mx-auto hidden max-w-full drop-shadow-three dark:block dark:drop-shadow-none lg:mr-0"

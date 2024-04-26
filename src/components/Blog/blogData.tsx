@@ -3,45 +3,33 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "Association el fell pour l'environnement",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
-    author: {
-      name: "Samuyl Joshi",
-      image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
-    },
-    tags: ["creative"],
-    publishDate: "2025",
+      "c'est une association qui fait beaucoup d'opérations de sauvetages et d'adoptions de plusieurs chiens et chats errants, avec l'accueil dans le centre des animaux malades ou handicapés.",
+    image: "/images/blog/blog1.png",
+    
+    tags: ["+102 %"],
+    publishDate: "2024",
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "SFAX el khayria",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-02.jpg",
-    author: {
-      name: "Musharof Chy",
-      image: "/images/blog/author-02.png",
-      designation: "Content Writer",
-    },
-    tags: ["computer"],
-    publishDate: "2025",
+      " c'est une association en Tunisie dédiée à soutenir les orphelins. Elle fournit un hébergement sécurisé, une éducation, et des soins médicaux aux enfants sans soutien familial, leur offrant ainsi une chance de construire un avenir meilleur .",
+    image: "/images/blog/blog2.png",
+   
+    tags: ["+212 %"],
+    publishDate: "2024",
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "La Cimade.",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-03.jpg",
-    author: {
-      name: "Lethium Deo",
-      image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
-    },
-    tags: ["design"],
-    publishDate: "2025",
+      " c'est une organisation dédiées pour aider les réfugiés et les migrants par le biais de programmes d'intégration, d'assistance juridique et de soutien psychologique Ces efforts visent à améliorer les conditions de vie des personnes déplacées .",
+    image: "/images/blog/blog.png",
+    
+    tags: ["115 %"],
+    publishDate: "2024",
   },
 ];
 export default blogData;

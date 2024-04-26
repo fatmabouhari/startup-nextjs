@@ -13,8 +13,8 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="We are ready to help"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          title="Vous aider à aider les autres"
+          paragraph="Toutes les organisations à but non lucratif ont une idée en commun. Répondre à un besoin qui, selon elles, rend le monde meilleur. Notre mission est de permettre à cette idée de réussir.."
           center
           mb="80px"
         />
