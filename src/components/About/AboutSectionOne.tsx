@@ -26,7 +26,7 @@ const AboutSectionOne = () => {
               <SectionTitle
                 title="La confiance est le socle de la générosité  
                 la sécurité, son bouclier..."
-                paragraph="Nous avons établi un partenariat solide avec la Banque X, Cette collaboration garantit que chaque donation est traitée avec le plus haut niveau de protection, utilisant les protocoles de sécurité rigoureux. Avec Banque X, vos gestes de générosité sont entre des mains sûres, vous permettant de donner en toute confiance.."
+                paragraph="➤Nous avons établi un partenariat solide avec la Banque Internationale Arabe de Tunisie, Cette collaboration garantit que chaque donation est traitée avec le plus haut niveau de protection, utilisant les protocoles de sécurité rigoureux. Avec la BIAT, vos gestes de générosité sont entre des mains sûres, vous permettant de donner en toute confiance.."
                 mb="44px"
               />
 
